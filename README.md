@@ -12,4 +12,5 @@ Empresa: Café Guaíra
 Cargo: empacotador
 
 
+![](https://tenor.com/pt-BR/view/corinthians-my-beloved-gif-27534237)
 obs: trabalhei com vendas na escola, para arrecadação de dinheiro.
