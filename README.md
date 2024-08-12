@@ -12,3 +12,5 @@ Empresa: Café Guaíra
 Cargo: empacotador
 
 obs: trabalhei com vendas na escola, para arrecadação de dinheiro.
+
+site feito por mim (exemplo do meu trabalho): https://bielfadokyan4.cms.webnode.page/
