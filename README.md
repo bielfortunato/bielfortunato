@@ -14,3 +14,5 @@ Cargo: empacotador
 obs: trabalhei com vendas na escola, para arrecadação de dinheiro.
 
 site feito por mim (exemplo do meu trabalho): https://bielfadokyan4.cms.webnode.page/
+
+file:///home/chronos/u-d63b2c05e5d9818b7ec71fab52a206488aabb24a/MyFiles/projeto%20final/projeto%20final.mhtml
